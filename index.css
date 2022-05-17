@@ -1,0 +1,40 @@
+body{
+    font-size: 15px;
+    margin: 0;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    min-width: 700  px;
+}
+
+
+
+
+input{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid crimson;
+    box-sizing: border-box;
+    margin-bottom: 5px;
+}
+button{
+    background-color: crimson;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    font-weight: bold;
+    margin: 2px;
+}
+
+ul{
+    list-style-type: square;
+    padding: 0px;
+    margin-top: 20px;
+}
+li{
+    margin-top: 10px;
+}
+a{
+    /* text-decoration: none; */
+    color: crimson;
+    font-weight: bold;
+}
